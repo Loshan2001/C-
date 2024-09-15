@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Variables{
+namespace Tutorial{
     class Program
     {
         static void Main(string[] args){

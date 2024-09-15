@@ -1,5 +1,5 @@
 using System;
-namespace Variables{
+namespace Tutorial{
     class TypeConversion{
         public static void DefineOverflow(){
         // Implicit Type Conversion 
