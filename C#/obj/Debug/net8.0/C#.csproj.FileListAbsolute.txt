@@ -12,3 +12,4 @@
 /Users/loshansp/Desktop/C_Family/C#/obj/Debug/net8.0/C#.pdb
 /Users/loshansp/Desktop/C_Family/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
 /Users/loshansp/Desktop/C_Family/C#/obj/Debug/net8.0/ref/C#.dll
+/Users/loshansp/Desktop/C_Family/C#/obj/Debug/net8.0/C#.sourcelink.json
