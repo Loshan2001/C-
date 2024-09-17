@@ -17,6 +17,10 @@ namespace Tutorial{
             boss.EmployeeDetails();
             boss.SalaryDetails();
 
+            ExternalEmployee exemp = new ExternalEmployee(11,"loshan","Jaffna",30000.00,1,"IFS","Colombo");
+            exemp.ExternalEmployeeDetails();
+            exemp.ExtenalEmployeeCompanyDetails();
+            
         }
     }
 }
