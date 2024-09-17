@@ -20,7 +20,15 @@ namespace Tutorial{
             ExternalEmployee exemp = new ExternalEmployee(11,"loshan","Jaffna",30000.00,1,"IFS","Colombo");
             exemp.ExternalEmployeeDetails();
             exemp.ExtenalEmployeeCompanyDetails();
-            
+
+
+            Claculator c = new Claculator();
+            c.Add(20,20,20);
+
+            Bus semibus = new SemiBus(8);
+            semibus.BusDetails();
+            semibus.Capacity();
+
         }
     }
 }
