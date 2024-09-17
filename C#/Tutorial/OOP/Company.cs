@@ -15,6 +15,32 @@ namespace Tutorial{
             this.Name = name;
         }
 
+        public static void collectCompany(){
+            List<Company> companies = new List<Company>(){
+            new Company{
+                Id = 1,
+                Name = "Expernetic"
+            },
+             new Company{
+                Id = 2,
+                Name = "IFS"
+            },
+             new Company{
+                Id = 3,
+                Name = "WSO2"
+            },
+             new Company{
+                Id = 4,
+                Name = "Ascentic"
+            },
+        };
+
+        foreach(Company c in companies){
+            c.DisplayCompanyDetails();
+        }
+
+        }
+
         // public void SetId(int id){
         //     this.id = id;
         // }
