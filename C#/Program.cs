@@ -34,6 +34,11 @@ namespace Tutorial{
             e.CompanyDetails();
 
 
+            Student stu = new Student(222,"loshan");
+            stu.Id = 666;
+            stu.Name = "Lochan";
+            stu.StudentDetails();
+
         }
     }
 }
