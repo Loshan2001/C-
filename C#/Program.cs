@@ -29,6 +29,11 @@ namespace Tutorial{
             semibus.BusDetails();
             semibus.Capacity();
 
+            Emp e = new Emp(1,"Max","boss","SLIIT" ,"Find Your Future");
+            e.EmpSalaryDetails();
+            e.CompanyDetails();
+
+
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Tutorial;
 
-namespace C_.Tutorial.OOP
+namespace Tutorial
 {
      class Boss : Employee
     {
