@@ -4,7 +4,7 @@ namespace Tutorial{
     class Program
     {
         static void Main(string[] args){
-         Company.collectCompany();
+         Shape rec = new Rectangle();
         
         
 
